@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .columns {
+                border: dotted 2px #29274c;
+                display: flex;
+            }   
+            .columns > div {
+             border:  solid 1px #012a36;
+             flex: 1;  
+            } 
+            
+            .columns > div:nth-of-type(2) {
+            flex: 2;
+            }
+        </style>
+    </head>
+    <body>
+        <div> Greetings Humans</div>
+        <div class="columns">
+            <div>Brad 1</div>
+            <div>Chad 2</div>
+            <div>Kevin 3</div>
+        </div>
+    </body>
+</html>

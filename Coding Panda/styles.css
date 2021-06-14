@@ -1,0 +1,19 @@
+div{
+    background-color: paleturquoise;
+    width: 55%;
+    color: black;
+}
+h1{
+background-color: paleturquoise;
+color: black;
+border: solid 4px #faf3dd;
+}
+p{
+    Color: black;
+}
+body{
+    background-color: #5e6472;
+}
+.Identity > p {
+    Font-size: 1.5em;
+}
