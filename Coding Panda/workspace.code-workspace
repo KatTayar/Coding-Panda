@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Coding Panda"
+		},
+		{
+			"path": "../../../../Desktop/html-css-javascript-getting-started-start"
+		},
+		{
+			"path": "../../../../Desktop/html-css-javascript-getting-started-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html-css-javascript-getting-started-start"
+	}
+}
